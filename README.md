@@ -19,7 +19,7 @@ Welcome to this repository! It contains a demonstration video and two accompanyi
 
  🎥 Video File
 
- Video link of preskilit video : [`Abhijit(1)(1).mp4`](./Abhijit (1) (1).mp4)  
+ Video link of preskilit video : [`abhijit(1)(1).mp4`](./abhijit(1)(1).mp4)  
  
   This video provides an overview of the project that is json in python .
 
