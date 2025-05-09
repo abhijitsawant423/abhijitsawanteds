@@ -19,7 +19,7 @@ Welcome to this repository! It contains a demonstration video and two accompanyi
 
  🎥 Video File
 
- Video link of preskilit video : [`abhijit(1)(1).mp4`](./abhijit(1)(1).mp4)  
+ Video link of preskilit video : [`abhiv.mp4`](./abhiv.mp4)  
  
   This video provides an overview of the project that is json in python .
 
@@ -29,12 +29,12 @@ Welcome to this repository! It contains a demonstration video and two accompanyi
 
 1. cisco certification of python essencial 1 and 2 pdf :
    
-    [`Cisco certificate .pdf`](./Ciscocertificate.pdf)
+    [`cisco.pdf`](./cisco.pdf)
 
 
 3. EDS Activity lab :
    
-      [`202401080043(CS6-73)EDS.pdf`](./202401080043(CS6-73)EDS.pdf)  
+      [`abhi.pdf`](./abhi.pdf)  
 
 
 ---
